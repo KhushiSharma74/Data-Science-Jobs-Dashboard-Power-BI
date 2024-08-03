@@ -10,7 +10,7 @@ This repository contains a Data Science Job Dashboard and Salary Prediction Mode
 
 ## How to Use
 ### Access the Dashboard:
-1. Open the Tableau workbook file (`data_science_job_dashboard.twbx`) using Tableau Public.
+1. Open the Power BI workbook file (`data_science_job_dashboard.twbx`) using Power BI Public.
 
 ### Interact with Visualizations:
 - Use filters to narrow down job searches based on location, job level, or specific skills.
